@@ -3,7 +3,9 @@ A very rough colorization network based on CNN and tensorflow.
   
   
 ### Result on Celeba  
-![demo-celeba](https://github.com/htkseason/Colorization-Tensorflow/blob/master/demo-celeba.png)  
+<img src="https://github.com/htkseason/Colorization-Tensorflow/blob/master/demo-celeba.png" width="75%" alt="demo-celeba" />  
+  
+---  
   
 ### Network Structure  
 Gray Image Input --> 64×64×1  
