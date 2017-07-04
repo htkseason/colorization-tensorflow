@@ -1,9 +1,9 @@
 # Tensorflow Colorization  
-A very rough colorization network based on CNN and tensorflow.  
+A toy colorization network with celeba.  
   
 ---  
   
-### Result on Celeba :  
+### Result on Celeba  
 <img src="https://github.com/htkseason/Colorization-Tensorflow/blob/master/demo-celeba.png" width="75%" alt="demo-celeba" />  
   
 ---  
